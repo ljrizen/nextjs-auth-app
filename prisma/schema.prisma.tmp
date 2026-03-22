@@ -1,0 +1,5 @@
+DATABASE_URL="mysql://root:@127.0.0.1:3306/nextjs_auth_db"
+JWT_SECRET="your-secret-key-change-this-later-12345678901234567890"
+NODE_ENV="development"
+
+
